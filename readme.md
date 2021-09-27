@@ -1,6 +1,6 @@
 # Vefforritun 1, 2021: Verkefni 6, CSS #4
 
-[Kynning í fyrirlestri](https://youtu.be/).
+[Kynning í fyrirlestri](https://youtu.be/gDeKrPH7KQM).
 
 Halda skal áfram með viðmót fyrir Vefforritunarfréttir úr [verkefni 4](https://github.com/vefforritun/vef1-2021-v4/) og [verkefni 5](https://github.com/vefforritun/vef1-2021-v4/). Nú skal setja þróunartól: `browser-sync`, `sass`, og `stylelint`.
 
