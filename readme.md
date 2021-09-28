@@ -31,7 +31,7 @@ Síðan þarf að sækja hvert tól með `npm install <nafn á tóli>`.
 
 ### Sass
 
-Skipta skal CSS upp í mismunandi skrár undir `styles/`, sjá viðeigandi komment í hverju og einu skjali.
+Skipta skal CSS upp í mismunandi skrár undir `styles/`.
 
 Í `styles/config.scss` skal geyma allar stillingar fyrir verkefni og nota þær á viðeigandi stöðum.
 
